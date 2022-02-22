@@ -1,0 +1,5 @@
+Họ và tên: Nguyễn Kim Hưng Thịnh
+Fork Repo URL: https://github.com/SofT081199/GitTest
+Pull request của bài tập 1: https://github.com/OSD-Royho-2011/GitTest/pull/22
+Pull request của bài tập 2: https://github.com/OSD-Royho-2011/GitTest/pull/23
+Team: AI
